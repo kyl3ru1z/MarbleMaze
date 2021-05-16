@@ -1,10 +1,3 @@
-//******************************//
-// Kyle Ruiz                    // 
-// CIS 281                      //
-// Arduino Final - Marble Maze  //
-// 12/9/2020                    // 
-//******************************//
-
 #include <Servo.h>
 #include "pitches.h"
   
