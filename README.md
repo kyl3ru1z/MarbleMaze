@@ -1,5 +1,5 @@
 # MarbleMaze
-Marble Maze controlled using the Arduino UNO. The main objective of this game is to tilt the maze in certain directions to maneuver a marble across a maze. Achieved maze titling by mapping a 2-Axis Joystick to two micro servos. Added a feature where the user can time how long it takes for them to reach the end of the maze and rate how well they did. 
+Marble Maze controlled using the Arduino UNO. The main objective of this game is to tilt the maze in certain directions to maneuver a marble across a maze. Achieved maze titling by mapping a 2-Axis Joystick to two micro servos. Added a feature where the program times how long the user takes to reach the end of the maze and rate how well the user did. 
 
 # Parts List
 - 2-Axis Joystick
